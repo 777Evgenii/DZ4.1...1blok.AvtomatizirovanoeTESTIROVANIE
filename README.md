@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/777Evgenii/DZ4.1...1blok.AvtomatizirovanoeTESTIROVANIE/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/777Evgenii/DZ4.1...1blok.AvtomatizirovanoeTESTIROVANIE/actions/workflows/gradle.yml)
